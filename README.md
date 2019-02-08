@@ -1,0 +1,4 @@
+-	To compile java code, go to root directory where pom.xml located. Run: mvn clean install
+-	To run with eclipse : run main class : BankApplication.java
+-	To run spring boot application deploy, go to bank\target run : java -jar bank-0.0.1-SNAPSHOT.jar
+-	To show Api Documentation with swagger, go to http://localhost:8080/swagger-ui.html
